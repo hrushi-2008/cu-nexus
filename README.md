@@ -160,5 +160,9 @@ The main objective of CU NEXES is to demonstrate how Data Structures and Algorit
 CU NEXES demonstrates the practical use of Data Structures and Algorithms in developing a student networking platform. By combining Python, Streamlit, JSON storage and multiple DSA techniques, the project provides useful networking features while demonstrating efficient data organization and processing.
 
 ## Team
+T.Hrushi kesava reddy 
+N.Vyshnavi
+T.vyshnavi
+Shreya poojari 
 
 Developed as a **DSA Mini Project**.
